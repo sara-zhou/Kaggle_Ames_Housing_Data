@@ -24,8 +24,8 @@ As always, you will be submitting a technical report and a presentation. **You m
 Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/4cddd793119f4dca89c808fd34dfab58) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSIR-Octopus Regression Challenge](https://www.kaggle.com/c/dsir-octopus-project-2-regression-challenge/overview)
+2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up]() to **join** the competition (otherwise you will not be able to make submissions!)
+3. Review the material on the [DSIR-1129 Regression Challenge](https://www.kaggle.com/c/dsir-1129-prime/overview)
 4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
 ## The Modeling Process
@@ -47,9 +47,9 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-**Some** materials (**presentation and at least one submission to Kaggle**) must be submitted by the beginning of class (10am EST) on **Monday, September 20th**. You'll be allowed to polish/clean your repository and submit it by **EOD Monday** (11.59pm EST).
+**Some** materials (**presentation and at least one submission to Kaggle**) must be submitted by the beginning of class on **Thursday, December 23rd**. You'll be allowed to polish/clean your repository and submit it by **EOD** (11.59pm EST).
 
-The last day for the Kaggle competition will be **Monday, September 20th**.
+The last day for the Kaggle competition will be **Wednesday, December 22nd**.
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
