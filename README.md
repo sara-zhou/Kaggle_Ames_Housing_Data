@@ -24,9 +24,8 @@ As always, you will be submitting a technical report and a presentation. **You m
 Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up]() to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSIR-1129 Regression Challenge](https://www.kaggle.com/c/dsir-1129-prime/overview)
-4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
+2. Review the material on the [DSIR-1129 Regression Challenge](https://www.kaggle.com/c/dsir-1129-prime/overview) Kaggle challenge page.
+3. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
 ## The Modeling Process
 
