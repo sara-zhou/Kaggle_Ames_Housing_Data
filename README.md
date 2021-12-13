@@ -54,7 +54,7 @@ Your technical report will be hosted on Github Enterprise. Make sure it includes
 
 - A README.md (**that isn't this file** - replace this file with YOUR readme) with a problem statement, executive summary, etc.
 - Jupyter notebook(s) with your analysis and models (renamed to describe your project)
-- At least one successful prediction submission on [DSIR-1129 Regression Challenge](https://www.kaggle.com/c/dsir-octopus-project-2-regression-challenge/) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsir-octopus-project-2-regression-challenge/leaderboard)" tab.
+- At least one successful prediction submission on [DSIR-1129 Regression Challenge](https://www.kaggle.com/c/dsir-1129-prime) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsir-1129-prime/leaderboard)" tab.
 - Data files
 - Presentation slides
 - Any other necessary files (images, etc.)
